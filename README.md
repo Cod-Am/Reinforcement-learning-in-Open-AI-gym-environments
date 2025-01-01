@@ -7,7 +7,7 @@ This repository explores reinforcement learning through the lens of Policy Gradi
 * BipedalWalker
 * MsPacman
 * CartPole
-* Each environment presents unique challenges, offering opportunities to refine and extend RL techniques.
+Each environment presents unique challenges, offering opportunities to refine and extend RL techniques.
 
 ## 🧠 Techniques
 The primary approach used in this project is Policy Gradient, which optimizes the agent's policy directly by estimating the gradients with respect to the expected return. Key steps include:
