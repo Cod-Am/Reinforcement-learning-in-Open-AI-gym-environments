@@ -4,10 +4,10 @@ Welcome to my Reinforcement Learning (RL) repository! 🎉 This project demonstr
 ## 🚀 Overview
 This repository explores reinforcement learning through the lens of Policy Gradient methods, applied to the following OpenAI Gym environments:
 
-* BipedalWalker
-* MsPacman
-* CartPole
-Each environment presents unique challenges, offering opportunities to refine and extend RL techniques.
+* BipedalWalker.
+* MsPacman.
+* CartPole.
+* Each environment presents unique challenges, offering opportunities to refine and extend RL techniques.
 
 ## 🧠 Techniques
 The primary approach used in this project is Policy Gradient, which optimizes the agent's policy directly by estimating the gradients with respect to the expected return. Key steps include:
